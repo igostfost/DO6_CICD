@@ -1,0 +1,10 @@
+     1	first line
+     2	hello
+     3	goodbye 
+     4	help
+     5	salamander
+     6	:)
+     7	21
+     8	42
+     9	69
+    10	last line

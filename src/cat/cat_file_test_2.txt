@@ -1,0 +1,11 @@
+Thompson wrote the first version in PDP-11 assembly language to help Lee E. McMahon analyze the text of the Federalist
+Papers to determine authorship of the individual papers. The ed text editor (also authored by Thompson) had regular expression
+support but could not be used on such a large amount of text, so Thompson excerpted that code into a standalone tool.
+He chose the name because in ed, the command g/re/p would print all lines matching a specified pattern. grep was first included in Version 4 Unix.
+
+Stating that it is "generally cited as the prototypical software tool", McIlroy credited grep with "irrevocably ingraining" Thompson's tools
+philosophy in Unix.
+
+qwertyuiopasdfghjkl;zxcvbnm,./
+test
+21

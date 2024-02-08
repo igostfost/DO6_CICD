@@ -1,0 +1,20 @@
+TEST GREP
+test grep
+odin dva 
+flowers bouquet
+pool 21
+very hungry
+$^testing grep from bash
+testing grep from bash
+
+
+
+    happy new year
+school 21 forever
+school 21 forever
+
+zzzzz
+z
+z
+ZZZ
+who we are
